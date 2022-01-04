@@ -1,40 +1,86 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #6
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Even a minor incident can quickly become mission-critical. If the effects of a critical incident linger, they may cause long-lasting damage to a company, its brand reputation and its revenues. As such, the mean time to resolution (MTTR) is a key metric for companies that want to reduce or eliminate critical incidents.  
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+MTTR refers to the average amount of time required to repair a failed component or system. For example, if a business network shuts down, a company may become non-operational until network accessibility is restored. If an IT team has a high MTTR, it likely will be many hours or days before employees can once again gain network access. Yet for each minute that a network is inaccessible, a company may lose revenues. Perhaps even worse, a network outage may degrade a company’s overall service and lead customers to choose the business’ rivals in the future.   
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Clearly, businesses need to measure MTTR and do everything they can to consistently reduce this figure. If companies deploy the right incident management and alert escalation software, they should have no trouble improving their MTTR. 
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps incident management and alert escalation software is designed to help businesses manage critical incidents before they get out of hand. Our software even supports the IT Infrastructure Library (ITIL) framework for effective incident management, which includes the following incident management activities:  
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Detection
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Many tools help IT teams monitor and detect systems issues. Additionally, these tools generally can generate alerts, either via email or a web link.  
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+With AlertOps, you can extend your incident management platform with our open, no-code APIs and connect your monitoring and help desk systems using pre-built integrations. In fact, you can instantly integrate your monitoring alerts using our open REST API or email API.   
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+    Recording
 
-1 Red Canary 2021 Threat Detection Report
+Every incident in AlertOps is recorded in a database and can be tracked by a number of data points, including: 
+
+    The date the incident was created 
+    Who created the incident 
+    The assigned owner of the incident 
+    Topic 
+    Priority 
+    Group (Team) 
+    Status 
+    Subject 
+    Service-Level Agreement (SLA) Status 
+    Source 
+    Source Name 
+    Incident (Alert) ID 
+
+By tracking incident data, you can find out why incidents are happening. Then, you can take the necessary steps to prevent a one-time critical incident from becoming a recurring problem.   
+
+    Classification
+
+AlertOps gives you five different levels to prioritize or classify your incidents. Plus, you can create filters in your inbound integrations to automate the routing and handling of incidents. 
+
+    Investigation and Diagnosis
+
+Investigation begins with notifying the right IT team member about an incident, but this sometimes can be tricky, particularly when it comes to alerting large groups of IT professionals about an incident. Fortunately, AlertOps offers bridges and a click-to-conference feature that makes it fast and easy for groups of IT professionals to jump on a call and troubleshoot an issue. We also provide a teams-within-teams feature that lets you build out large teams for major incidents and smart routing that helps get an alert to the right people, at the right time, every time.  
+
+Meanwhile, our incident database provides yet another diagnosis tool. Our database drives collaboration among IT teams, as it empowers team members to work together to analyze incident data and find the best ways to prevent future incidents. 
+
+    Resolution and Recovery
+
+The AlertOps incident database can be a great asset to help resolve incidents. It ensures all incidents are recorded and allows users to look up resolutions from previous incidents as well. Furthermore, you can search for incidents by date range, owner and other criteria, and workflows can be set up to send messages to key stakeholders, giving them the “all clear” signal after an incident has been resolved.  
+
+    Incident Closure
+
+Once an incident is resolved, AlertOps allows you to enter the resolution information into our incident database. That way, resolution information is available for future incidents that involve the same issue.  
+
+    Incident Ownership
+
+AlertOps users can take ownership of an alert or assign ownership to a team member. Moreover, workflows can be established to send reminders to an alert owner as an SLA approaches.  
+
+Let’s not forget about our software’s dashboards, either. Personal dashboards are available that allow users to manage their own incidents, and management dashboards can be set up that provide an overview of team assignments too.  
+
+    Monitoring
+
+Key AlertOps monitoring features include:  
+
+    Automatic incident status updates 
+    Email and voice alert response 
+    Outbound integrations for fast, effective response 
+
+AlertOps also offers pre-built integrations for the most popular monitoring tools, helpdesk software and chat tools. Or, you can use AlertOps to create your own two-way integrations and workflows.  
+
+    Tracking
+
+Dashboards, along with other tracking tools in AlertOps, give you visibility into your operations. You can drill down from dashboards to see incidents and manage these incidents accordingly.  
+
+    Communication
+
+AlertOps includes multi-channel communication (voice, email, text, mobile) and workflows to help you notify key stakeholders about incidents. With AlertOps, users can receive notifications or assignments via email, phone or in an application.  
+
+Critical incidents often are costly and time-intensive. If you deploy the right incident management and alert escalation software, however, you can limit the impact of critical incidents and reduce your company’s MTTR. This software can help you quickly identify and address incidents, and as a result, may prove to be exceedingly valuable to businesses around the globe.  
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-6/
 
 Read more:
 ====
